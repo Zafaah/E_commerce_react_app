@@ -1,0 +1,116 @@
+{
+  "File": [
+    
+    {
+      "id": 1,
+      "name": "Green Beanie",
+      "imageUrl": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+      "price": 18,
+      "type": "women"
+    },
+    {
+      "id": 2,
+      "name": "Palm Tree Cap",
+      "imageUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+      "price": 14,
+      "type": "men"
+    },
+    {
+      "id": 3,
+      "name": "Full dress",
+      "imageUrl": "https://i.ibb.co/52nh2bg/isku-joog.jpg",
+      "price": 14,
+      "type": "men"
+    },
+    {
+      "id": 4,
+      "name": "Wedding Dress",
+      "imageUrl": "https://i.ibb.co/0qyTdXk/istockphoto-1136314268-612x612.jpg",
+      "price": 16,
+      "type": "men"
+    },
+    {
+      "id": 5,
+      "name": "Brown Brim",
+      "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+      "price": 25,
+      "type": "women"
+    },
+    {
+      "id": 6,
+      "name": "Blue Beanie",
+      "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+      "price": 18,
+      "type": "women"
+    },
+    {
+      "id": 7,
+      "name": "Brown Cowboy",
+      "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+      "price": 35,
+      "type": "women"
+    },
+    {
+      "id": 8,
+      "name": "Grey Brim",
+      "imageUrl": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+      "price": 25,
+      "type": "men"
+    },
+    {
+      "id": 9,
+      "name": "Shirt",
+      "imageUrl": "https://i.ibb.co/vqVvhZB/shaati.jpg",
+      "price": 25,
+      "type": "men"
+    },
+    {
+      "id": 10,
+      "name": "saako",
+      "imageUrl": "https://i.ibb.co/8jwyZyP/istockphoto-1360260853-612x612.jpg",
+      "price": 18,
+      "type": "women"
+    },
+    {
+      "id": 11,
+      "name": "Style",
+      "imageUrl": "https://i.ibb.co/2PY2CjP/cloth1men.jpg",
+      "price": 35,
+      "type": "men"
+    },
+    {
+      "id": 12,
+      "name": "Wedding Dress",
+      "imageUrl": "https://i.ibb.co/TcqZcqH/istockphoto-972245306-612x612.jpg",
+      "price": 25,
+      "type": "women"
+    }
+  ],
+  "Users": [
+    {
+      "fName": "hafsa",
+      "phone": "0618630475",
+      "email": "Hafzaabdulkhadir@gmail.com",
+      "password": "0000",
+      "confirmPass": "0000",
+      "id": 1
+    },
+    {
+      "fName": "Abdirsaq Abdulaahi ",
+      "phone": "7780000",
+      "email": "Abdirsak123@gmail.com",
+      "password": "7890",
+      "confirmPass": "7890",
+      "id": 2
+    },
+    
+    {
+      "fName": "Muno",
+      "phone": "000000",
+      "email": "munoabdulkhadir@gmail.com",
+      "password": "56789",
+      "confirmPass": "56789",
+      "id": 3
+    }
+  ]
+}
